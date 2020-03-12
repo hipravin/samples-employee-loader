@@ -1,0 +1,14 @@
+john.doe@company.com, Admin|User
+jane.doe@company.com, Developer|Admin|User
+user3@company.com, Manager
+user4@company.com, Support
+
+user5@company.com, Developer|Support
+brokenline
+user6@company.com, Admin|User
+user7@company.com, Developer|Admin|User
+user8@company.com, Manager
+user9@company.com, Support
+
+user10@company.com, Developer|Support 
+
